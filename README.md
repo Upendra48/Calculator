@@ -1,16 +1,20 @@
-# calculator
+Calculator App README
 
-A new Flutter project.
+Overview:
+The Calculator App is a mobile application developed using Flutter, a popular cross-platform framework. It provides a user-friendly and intuitive interface for performing various arithmetic operations, including addition, subtraction, multiplication, and division. The app also supports decimal numbers and percentage conversion, making it a versatile tool for everyday calculations.
 
-## Getting Started
+Features:
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Support for decimal numbers
+- Percentage conversion
+- User-friendly and responsive interface
+- Clear and delete functionality for ease of use
 
-This project is a starting point for a Flutter application.
+How to Use:
+- Enter numbers and operators to perform calculations.
+- Use the clear button (C) to reset the input.
+- The delete button (D) erases the last character.
+- The percentage button (%) converts the input to a percentage.
+- Press the equal button (=) to get the result of your calculation.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: Made this project while learning flutter from Youtube channel : https://www.youtube.com/@shohruhak and would like to thank for it. I will be adding more features to this project myself as a part of my learning.
