@@ -1,16 +1,16 @@
-Calculator App README
+### Calculator App 
 
-Overview:
+# Overview:
 The Calculator App is a mobile application developed using Flutter, a popular cross-platform framework. It provides a user-friendly and intuitive interface for performing various arithmetic operations, including addition, subtraction, multiplication, and division. The app also supports decimal numbers and percentage conversion, making it a versatile tool for everyday calculations.
 
-Features:
+# Features:
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Support for decimal numbers
 - Percentage conversion
 - User-friendly and responsive interface
 - Clear and delete functionality for ease of use
 
-How to Use:
+# How to Use:
 - Enter numbers and operators to perform calculations.
 - Use the clear button (C) to reset the input.
 - The delete button (D) erases the last character.
